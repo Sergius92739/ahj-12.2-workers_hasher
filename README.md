@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/ym4ty3xf3t96fnh9/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ahj-12-2-workers-hasher/branch/master)
 
-#### Deployment: <a href="">Github Pages</a>
+#### Deployment: <a href="https://sergius92739.github.io/ahj-12.2-workers_hasher/">Github Pages</a>
 
 ---
 
