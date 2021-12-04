@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/ym4ty3xf3t96fnh9/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ahj-12-2-workers-hasher/branch/master)
 
 #### Deployment: <a href="">Github Pages</a>
 
